@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-- <em>Yuan-Zhuo</em> <em>Ma</em>, Zidu Lin, Bing-Nan Lu, Serdar Elhatisari, Dean Lee, Ning Li, Ulf-G. Meißner, AndrewW. Steiner, Qian Wang, [Arxiv](http://arxiv.org/abs/2306.04500) 2024
+- <em>Yuan-Zhuo</em> <em>Ma</em>, Zidu Lin, Bing-Nan Lu, Serdar Elhatisari, Dean Lee, Ning Li, Ulf-G. Meißner, AndrewW. Steiner, Qian Wang, [Arxiv](http://arxiv.org/abs/2306.04500), Accept by Phys. Rev. Lett, 2024
 
 - Serdar Elhatisari, Lukas Bovermann, <em>Yuan-Zhuo</em> <em>Ma</em>, Evgeny Epelbaum, Dillon Frame, Fabian Hildenbrand, Myungkuk Kim, Youngman Kim, Hermann Krebs, TimoA. Lähde, Dean Lee, Ning Li, Bing-Nan Lu,  Ulf-G. Meißner, Gautam Rupak, Shihang Shen, Young-Ho Song, Gianluca Stellin, Accept by Nature, 2024
 
