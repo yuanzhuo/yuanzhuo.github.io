@@ -62,7 +62,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-4">
         <div style="text-align:center;">
         <h3>Finite-temperature<br>neutron matter</h3>
-        <img src="/files/work-logo-4.png" alt="Nuclear Lattice EFT" width="180">
+        <img src="/files/work-logo-4.png" alt="Nuclear Lattice EFT" width="160">
         </div>
          </a>
     </div>
