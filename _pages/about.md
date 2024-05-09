@@ -46,7 +46,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-2">
         <div style="text-align:center;">
         <h3>Energy & Charge Radii</h3>
-        <img src="/files/work-logo-2.png" alt="Nuclear Lattice EFT" width="180">
+        <img src="/files/work-logo-2.png" alt="Nuclear Lattice EFT" width="200">
         </div>
         </a>
     </div>
