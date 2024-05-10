@@ -78,7 +78,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
      <a href="/research#work-6">
         <div style="text-align:center;">
         <h3>Large-scale computing</h3>
-        <img src="/files/work-logo-6.png" alt="Nuclear Lattice EFT" width="130">
+        <img src="/files/work-logo-6.png" alt="Nuclear Lattice EFT" width="150">
         </div>
         </a>
     </div>
