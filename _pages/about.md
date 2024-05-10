@@ -54,7 +54,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-3">
         <div style="text-align:center;">
         <h3>Rank-One Operator<br>  (new algorithm)</h3>
-        <img src="/files/work-logo-3.png" alt="Nuclear Lattice EFT" width="180">
+        <img src="/files/work-logo-3.png" alt="Nuclear Lattice EFT" width="200">
         </div>
         </a>
     </div>

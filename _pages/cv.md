@@ -39,8 +39,8 @@ Work & Research
 Awards 
 ======
 ---
-  * 2023 the Hu-Jimin Education Science Award by the Chinese Nuclear Physics Society 
-  * 2020 Fellowship of China National Postdoctoral Program for Innovative Talents (highest support&honor for Chinese postdoctoral researchers)  
+  * 2023 the Hu-Jimin Education Science Award (胡济民教育科研奖) by the Chinese Nuclear Physics Society 
+  * 2020 Fellowship of China National Postdoctoral Program for Innovative Talents ("博新计划") (highest support&honor for Chinese postdoctoral researchers)  
   * 2018,2019 Principle’s scholarship (highest support&honor for graduated students) of Peking University, Twice  
   * 2013,2014 National Encouragement Scholarship for undergraduate students, Twice  
 
