@@ -38,15 +38,15 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-1">
         <div style="text-align:center;">
         <h3>Nuclear Lattice EFT</h3>
-        <img src="/files/work-logo-1.png" alt="Nuclear Lattice EFT" width="200" >
+        <img src="/files/work-logo-1.png"  width="200" >
         </div>
         </a>
     </div>
     <div class="column">
         <a href="/research#work-2">
         <div style="text-align:center;">
-        <h3>Energy & Charge Radii</h3>
-        <img src="/files/work-logo-2.png" alt="Nuclear Lattice EFT" width="200">
+        <h3>Properties of Nuclei</h3>
+        <img src="/files/work-logo-2.png" width="200">
         </div>
         </a>
     </div>
@@ -54,15 +54,15 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-3">
         <div style="text-align:center;">
         <h3>Rank-One Operator<br>  (new algorithm)</h3>
-        <img src="/files/work-logo-3.png" alt="Nuclear Lattice EFT" width="200">
+        <img src="/files/work-logo-3.png"  width="200">
         </div>
         </a>
     </div>
     <div class="column">
         <a href="/research#work-4">
         <div style="text-align:center;">
-        <h3>Finite-temperature<br>neutron matter</h3>
-        <img src="/files/work-logo-4.png" alt="Nuclear Lattice EFT" width="160">
+        <h3>Finite-temperature<br>Neutron Matter</h3>
+        <img src="/files/work-logo-4.png" width="160">
         </div>
          </a>
     </div>
@@ -70,15 +70,15 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
      <a href="/research#work-5">
         <div style="text-align:center;">
         <h3>Chiral Three-Body Force</h3>
-        <img src="/files/work-logo-5.png" alt="Nuclear Lattice EFT" width="180">
+        <img src="/files/work-logo-5.png"  width="180">
         </div>
         </a>
     </div>
     <div class="column">
      <a href="/research#work-6">
         <div style="text-align:center;">
-        <h3>Large-scale computing</h3>
-        <img src="/files/work-logo-6.png" alt="Nuclear Lattice EFT" width="150">
+        <h3>Large-scale Computing</h3>
+        <img src="/files/work-logo-6.png"  width="150">
         </div>
         </a>
     </div>
