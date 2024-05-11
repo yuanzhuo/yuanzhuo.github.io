@@ -62,7 +62,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         <a href="/research#work-3">
         <div style="text-align:center;">
         <h3>Rank-One Operator<br>  (new algorithm)</h3>
-        <img src="/files/work-logo-3.png"  width="200">
+        <img src="/files/work-logo-3.png"  width="180">
         </div>
         </a>
     </div>
@@ -70,7 +70,7 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
      <a href="/research#work-5">
         <div style="text-align:center;">
         <h3>Chiral Three-Body Force</h3>
-        <img src="/files/work-logo-5.png"  width="180">
+        <img src="/files/work-logo-5.png"  width="160">
         </div>
         </a>
     </div>
