@@ -51,10 +51,10 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         </a>
     </div>
     <div class="column">
-        <a href="/research#work-4-2">
+        <a href="/research#work-4">
         <div style="text-align:center;">
         <h3>Finite-temperature<br>Neutron Matter</h3>
-        <img src="/files/work-logo-4.png" width="160">
+        <img src="/files/work-logo-4-2.png" width="160">
         </div>
          </a>
     </div>
@@ -75,10 +75,10 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         </a>
     </div>
     <div class="column">
-     <a href="/research#work-6-2">
+     <a href="/research#work-6">
         <div style="text-align:center;">
         <h3>Large-scale Computing</h3>
-        <img src="/files/work-logo-6.png"  width="150">
+        <img src="/files/work-logo-6-2.png"  width="150">
         </div>
         </a>
     </div>
