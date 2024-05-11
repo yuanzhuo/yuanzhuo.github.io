@@ -12,7 +12,7 @@ title                    : "Yuanzhuo Ma / 马远卓"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Test"
-url                      : https://yuanzhuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yuanzhuo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanzhuo/yuanzhuo.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "East Lansing, US"
   employer         : "Michigan State University"
-  uri              : # URL
+  uri              : "https://yuanzhuo.github.io" # URL
   email            : "mayu@frib.msu.edu" 
 
   # Academic websites

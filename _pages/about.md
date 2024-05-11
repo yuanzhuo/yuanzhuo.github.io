@@ -12,7 +12,7 @@ redirect_from:
 </div> -->
 <!-- ------ -->
 <div style="text-align:justify;">
-I am a research associate at the Facility for Rare Isotope Beams (FRIB) located at Michigan State University. My current research interests encompass a range of topics, including ab initio calculations, quantum many-body methods, nuclear structure, infinite nuclear matter, and high-performance large-scale computing.
+I am a research associate at the Facility for Rare Isotope Beams (FRIB) located at Michigan State University, working with Prof. <a href="https://frib.msu.edu/for-students/faculty/lee-profile">Dean Lee</a>. My current research interests encompass a range of topics, including ab initio calculations, quantum many-body methods, nuclear structure, infinite nuclear matter, and high-performance large-scale computing.
 </div>
 
 ------
