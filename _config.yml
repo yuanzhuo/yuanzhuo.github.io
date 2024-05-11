@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yuanzhuo Ma / 马远卓"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuanzhuo Ma"
 description              : &description "Test"
 url                      : "https://yuanzhuo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "yuanzhuo/yuanzhuo.github.io"
 author:
   # Biographic information
   avatar           : 'bio-photo_2.jpg' #"profile.png"
-  name             : # ""
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : # ""
+  bio              : ""
   location         : "East Lansing, US"
   employer         : "Michigan State University"
   uri              : # "https://yuanzhuo.github.io" # URL
