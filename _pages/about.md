@@ -51,20 +51,20 @@ I am a research associate at the Facility for Rare Isotope Beams (FRIB) located 
         </a>
     </div>
     <div class="column">
-        <a href="/research#work-3">
-        <div style="text-align:center;">
-        <h3>Rank-One Operator<br>  (new algorithm)</h3>
-        <img src="/files/work-logo-3.png"  width="200">
-        </div>
-        </a>
-    </div>
-    <div class="column">
         <a href="/research#work-4">
         <div style="text-align:center;">
         <h3>Finite-temperature<br>Neutron Matter</h3>
         <img src="/files/work-logo-4.png" width="160">
         </div>
          </a>
+    </div>
+    <div class="column">
+        <a href="/research#work-3">
+        <div style="text-align:center;">
+        <h3>Rank-One Operator<br>  (new algorithm)</h3>
+        <img src="/files/work-logo-3.png"  width="200">
+        </div>
+        </a>
     </div>
     <div class="column">
      <a href="/research#work-5">
