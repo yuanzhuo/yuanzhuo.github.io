@@ -5,13 +5,10 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
-
+<h1 id="work-1"></h1>
 <!-- <div class="wordwrap"></div> -->
 ---
-
 <div style="text-align:left;">
-<h1 id="work-1"></h1>
 <br>
 <img src="/files/RS1.png" alt="" width="800" height="400">
 </div>
