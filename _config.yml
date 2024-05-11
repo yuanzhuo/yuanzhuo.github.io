@@ -22,12 +22,12 @@ repository               : "yuanzhuo/yuanzhuo.github.io"
 author:
   # Biographic information
   avatar           : 'bio-photo_2.jpg' #"profile.png"
-  name             : ""
+  name             : # ""
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : # ""
   location         : "East Lansing, US"
   employer         : "Michigan State University"
-  uri              : "https://yuanzhuo.github.io" # URL
+  uri              : # "https://yuanzhuo.github.io" # URL
   email            : "mayu@frib.msu.edu" 
 
   # Academic websites
