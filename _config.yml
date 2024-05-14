@@ -22,7 +22,7 @@ repository               : "yuanzhuo/yuanzhuo.github.io"
 author:
   # Biographic information
   avatar           : 'bio-photo_2.jpg' #"profile.png"
-  name             : "Yuan-Zhuo Ma"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "East Lansing, US"
