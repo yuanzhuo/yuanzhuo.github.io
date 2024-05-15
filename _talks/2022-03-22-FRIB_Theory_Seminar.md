@@ -8,6 +8,6 @@ date: 2022-03-22
 location: "East Lansing, MI"
 ---
 
-<!-- [More information here](http://exampleurl.com) -->
+[More information](https://nscl.msu.edu/apps/displayseminar.php?id=6308)
 
 <!-- This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown! -->
