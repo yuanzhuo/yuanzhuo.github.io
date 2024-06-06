@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
-- <em>Yuan-Zhuo</em> <em>Ma</em>, Zidu Lin, Bing-Nan Lu, Serdar Elhatisari, Dean Lee, Ning Li, Ulf-G. Meißner, AndrewW. Steiner, Qian Wang, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.232502) 132, 232502 2024
+- <em>Yuan-Zhuo</em> <em>Ma</em>, Zidu Lin, Bing-Nan Lu, Serdar Elhatisari, Dean Lee, Ning Li, Ulf-G. Meißner, AndrewW. Steiner, Qian Wang, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.232502) 132, 232502 (2024)
 
 - Serdar Elhatisari, Lukas Bovermann, <em>Yuan-Zhuo</em> <em>Ma</em>, Evgeny Epelbaum, Dillon Frame, Fabian Hildenbrand, Myungkuk Kim, Youngman Kim, Hermann Krebs, Timo A. Lähde, Dean Lee, Ning Li, Bing-Nan Lu,  Ulf-G. Meißner, Gautam Rupak, Shihang Shen, Young-Ho Song, Gianluca Stellin, [Nature](https://doi.org/10.1038/s41586-024-07422-z), 2024
 
