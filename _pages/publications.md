@@ -17,7 +17,7 @@ author_profile: true
 
 - <em>Yuan-Zhuo</em> <em>Ma</em>, Zidu Lin, Bing-Nan Lu, Serdar Elhatisari, Dean Lee, Ning Li, Ulf-G. Meißner, AndrewW. Steiner, Qian Wang, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.232502) 132, 232502 (2024)
 
-- Serdar Elhatisari, Lukas Bovermann, <em>Yuan-Zhuo</em> <em>Ma</em>, Evgeny Epelbaum, Dillon Frame, Fabian Hildenbrand, Myungkuk Kim, Youngman Kim, Hermann Krebs, Timo A. Lähde, Dean Lee, Ning Li, Bing-Nan Lu,  Ulf-G. Meißner, Gautam Rupak, Shihang Shen, Young-Ho Song, Gianluca Stellin, [Nature](https://doi.org/10.1038/s41586-024-07422-z), 2024
+- Serdar Elhatisari, Lukas Bovermann, <em>Yuan-Zhuo</em> <em>Ma</em>, Evgeny Epelbaum, Dillon Frame, Fabian Hildenbrand, Myungkuk Kim, Youngman Kim, Hermann Krebs, Timo A. Lähde, Dean Lee, Ning Li, Bing-Nan Lu,  Ulf-G. Meißner, Gautam Rupak, Shihang Shen, Young-Ho Song, Gianluca Stellin, [Nature](https://doi.org/10.1038/s41586-024-07422-z) 630, pages59–63 (2024)
 
 
 - Kristian König, Julian C. Berengut, Anastasia Borschevsky, Alex Brinson, B. Alex Brown, Adam Dockery, Serdar Elhatisari, Ephraim Eliav, Ronald F.Garcia Ruiz, Jason D. Holt, Bai-Shan Hu, Jonas Karthein, Dean Lee, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G. Meißner, Kei Minamisono, Alexander V. Oleynichenko, Skyy V. Pineda, Sergey D. Prosnyak, Marten L. Reitsma, Leonid V. Skripnikov, Adam Vernon, Andréi Zaitsevskii, [Phys. Rev. Lett.](https://link.aps.org/doi/10.1103/PhysRevLett.132.162502) 132, 162502 (2024)
