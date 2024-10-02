@@ -31,7 +31,7 @@ author:
   email            : "mayu@frib.msu.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Ma%2C+Y.+Z.&terms-0-field=author&terms-1-operator=OR&terms-1-term=Yuan-Zhuo+Ma&terms-1-field=author&terms-2-operator=OR&terms-2-term=Yuanzhuo+Ma&terms-2-field=title&terms-3-operator=OR&terms-3-term=Y.+Z.+Ma&terms-3-field=title&terms-4-operator=OR&terms-4-term=YuanZhuo+Ma&terms-4-field=title&terms-5-operator=OR&terms-5-term=Yuanzhuo+Ma&terms-5-field=title&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"# URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=eNWBbKkAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : #
