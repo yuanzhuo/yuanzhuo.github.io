@@ -21,7 +21,7 @@ repository               : "yuanzhuo/yuanzhuo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 'bio-photo_2.jpg' #"profile.png"
+  avatar           : 'bio-photo_3.jpg' #"profile.png"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : ""
