@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "East Lansing, US"
   employer         : "Michigan State University"
-  uri              : "https://yuanzhuo.github.io"
+  uri              : # "https://yuanzhuo.github.io"
   email            : "mayu@frib.msu.edu" 
 
   # Academic websites
