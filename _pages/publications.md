@@ -15,6 +15,9 @@ author_profile: true
 
 ---
 
+- Giuliano Giacalone, Benjamin Bally, Govert Nijs, Shihang Shen, Thomas Duguet, Jean-Paul Ebran, Serdar Elhatisari, Mikael Frosini, Timo A Lähde, Dean Lee, Bing-Nan Lu, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G Meißner, Jacquelyn Noronha-Hostler, Christopher Plumberg, Tomás R Rodríguez, Robert Roth, Wilke van der Schee, Vittorio Somà, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/k8rb-jgvq) 135, 012302 (2025)
+
+
 - Giuliano Giacalone, Wenbin Zhao, Benjamin Bally, Shihang Shen, Thomas Duguet, Jean-Paul Ebran, Serdar Elhatisari, Mikael Frosini, Timo A. Lähde, Dean Lee, Bing-Nan Lu, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G. Meißner, Govert Nijs, Jacquelyn Noronha-Hostler, Christopher Plumberg, Tomás R. Rodríguez, Robert Roth, Wilke van der Schee, Björn Schenke, Chun Shen, and Vittorio Somà, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.082301) 134, 082301 (2025)
 
 
