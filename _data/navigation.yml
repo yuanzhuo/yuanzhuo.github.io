@@ -13,9 +13,6 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Code"
-    url: /code/
-
   # - title: "Teaching"
   #   url: /teaching/    
     
@@ -28,5 +25,7 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Code"
+    url: /code/
   # - title: "Guide"
   #   url: /markdown/
