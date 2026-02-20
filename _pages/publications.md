@@ -13,7 +13,11 @@ author_profile: true
 {% endif %}
   -->
 
----
+--- Young-Ho Song, Myungkuk Kim, Youngman Kim, Kihyeon Cho, Serdar Elhatisari, Dean Lee, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G Meißner, [Physics Letters B](https://doi.org/10.1016/j.physletb.2025.140086) 872 (2026) 140086
+
+- Giuliano Giacalone, Benjamin Bally, Govert Nijs, Shihang Shen, Thomas Duguet, Jean-Paul Ebran, Serdar Elhatisari, Mikael Frosini, Timo A Lähde, Dean Lee, Bing-Nan Lu, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G Meißner, Jacquelyn Noronha-Hostler, Christopher Plumberg, Tomás R Rodríguez, Robert Roth, Wilke van der Schee, Vittorio Somà, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/k8rb-jgvq) 135, 012302 (2025)
+
+
 
 - Giuliano Giacalone, Benjamin Bally, Govert Nijs, Shihang Shen, Thomas Duguet, Jean-Paul Ebran, Serdar Elhatisari, Mikael Frosini, Timo A Lähde, Dean Lee, Bing-Nan Lu, <em>Yuan-Zhuo</em> <em>Ma</em>, Ulf-G Meißner, Jacquelyn Noronha-Hostler, Christopher Plumberg, Tomás R Rodríguez, Robert Roth, Wilke van der Schee, Vittorio Somà, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/k8rb-jgvq) 135, 012302 (2025)
 
