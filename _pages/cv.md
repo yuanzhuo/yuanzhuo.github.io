@@ -19,7 +19,7 @@ Education
 Work & Research
 ======
 ---
-* 2025.06 - now: Research Assistant Professor at FRIB, Michigan State University
+* 2025.06 - now: Visiting Assistant Professor at FRIB, Michigan State University
 * 2023 - 2025.05: Research Associate at FRIB, Michigan State University
  <!-- * _ab_ _initio_ calculation of nuclear binding energy and charge radii -->
  <!-- * Finite-temperature neutron matter in supernova explosion  -->
